@@ -30,3 +30,4 @@ File Descriptions
 Results
 
 The main findings of the code can be found at the post available here.
+https://medium.com/@yujingfeng/seattle-airbnb-data-analysis-b81869b81aa
